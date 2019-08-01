@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 		  
   s.homepage     = "https://github.com/lizan402/LiZanLib"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
-
+  s.ios.deployment_target = '8.0'
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
